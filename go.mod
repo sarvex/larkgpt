@@ -9,4 +9,4 @@ require (
 	github.com/joho/godotenv v1.4.0
 )
 
-require golang.org/x/net v0.0.0-20211029224645-99673261e6eb // indirect
+require golang.org/x/net v0.17.0 // indirect
